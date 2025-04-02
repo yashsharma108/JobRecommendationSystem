@@ -82,9 +82,3 @@ GET /api/recommendations/{userId} - Get job recommendations for a user
 📜 License
 
 This project is licensed under the MIT License.
-
-🤝 Contributions are welcome! Feel free to open issues and submit pull requests.
-
-📬 Contact
-
-For questions, reach out to [your email or GitHub profile].
